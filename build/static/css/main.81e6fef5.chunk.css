@@ -1,0 +1,2 @@
+:root{--main-bg-color:#615cf5}.App{display:flex;flex-flow:column;width:100%;font-family:sans-serif;text-align:center;border:5px solid #615cf5;border:5px solid var(--main-bg-color)}.title{color:#615cf5;color:var(--main-bg-color);font-weight:100;font-size:40px}.numbers{display:flex}.numberTitle{width:50%}.subTitle{font-weight:100;font-size:30px}.buttonStyle{width:20%;height:50px;margin:auto;font-size:25px}#button{cursor:pointer}
+/*# sourceMappingURL=main.81e6fef5.chunk.css.map */
